@@ -6,4 +6,4 @@ When I made this I had probably only programmed for somewhere between 20 and 30 
 
 It only had a handful of requirements. The biggest thing is it needed to display a slight understanding of a super class and extending a class. 
 
-I will say, I was very proud of figuring out I could cread an array object from the super-class, "Accounts a[]", and fill that array with objects from the sub-classes. It wasn't until the following week that we learned about that in the class.
+I will say, I was very proud of figuring out I could create an array object from the super-class, "Accounts a[]", and fill that array with objects from the sub-classes. It wasn't until the following week that we learned about that in the class.
