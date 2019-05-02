@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class IT251_Sales_Tracker_IP4 {
 
     public static void main(String[] args) {
-        //This lines asks the user how many accoutns there are to enter. 
+        //This lines asks the user how many accounts there are to enter. 
         
         int totalReps = Integer.parseInt(JOptionPane.showInputDialog("How sales associates are entering data?"));
         int repsInc = 1;
